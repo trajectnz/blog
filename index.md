@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
+landing-title: Have better customer engagement
 description: 
 image: 
 author: 
