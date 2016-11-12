@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
+landing-title: Have happy customer interactions
 description: 
 image: 
 author: 
@@ -17,7 +17,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Say Hello</a></li>
 			</ul>
 		</div>
 	</div>
@@ -30,6 +30,7 @@ nav-menu:
 {% include tiles.html %}
 
 <!-- Two -->
+<!--
 <section id="two">
 	<div class="inner">
 		<header class="major">
@@ -41,6 +42,7 @@ nav-menu:
 		</ul>
 	</div>
 </section>
+-->
 
 </div>
 
