@@ -2,9 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 /*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
 */
 
 /* Reset */
@@ -46,6 +44,21 @@
 
 	body {
 		-webkit-text-size-adjust: none;
+	}
+
+
+	.team-names span.image.fit {
+		margin: 0.75em 0 1em 0;
+	}
+
+	.team-names .button:hover {
+		box-shadow: inset 0 0 0 2px #ffffff;
+		color: #ffffff;
+		cursor: default;
+	}
+
+	.team-names .button{
+		margin-bottom: 1em;
 	}
 
 /* Box Model */
@@ -3565,7 +3578,7 @@
 			#main > * > .inner {
 				padding: 4em 0 2em 0 ;
 				margin: 0 auto;
-				max-width: 65em;
+				max-width: 45em;
 				width: calc(100% - 6em);
 			}
 

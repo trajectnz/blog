@@ -349,4 +349,45 @@
 
 	});
 
+
+// carousel title
+var delightfulWords = [
+
+"intuitive",
+"rare",
+"fun",
+"purposeful",
+"a craft",
+"effortless",
+"good communicators",
+"respectful",
+"responsive",
+"like a ray of sunshine",
+"time saving",
+"caring",
+"polite",
+"trustworthy",
+"helpful",
+"satisfying",
+"warm",
+"personable",
+"friendly",
+"deserving",
+"endearing",
+"welcoming",
+"considerate",
+"delightful!"
+
+]
+
+$.each(delightfulWords, function(i, val) {
+    setTimeout(function() {
+        $('.delightful').fadeOut("slow", function() {
+            $(this).text(" "+ val).fadeIn("slow").css("color", "#00afe1");
+        });
+    }, i * 3000);
+  })
+
+
+
 })(jQuery);

@@ -1,103 +1,237 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-06T16:33:54+13:00</updated><id>http://localhost:4000/</id><subtitle>Improving customer interfaces for government agencies</subtitle><entry><title>Aliquam</title><link href="http://localhost:4000/2016/08/25/aliquam.html" rel="alternate" type="text/html" title="Aliquam" /><published>2016-08-25T00:00:00+12:00</published><updated>2016-08-25T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/25/aliquam</id><content type="html" xml:base="http://localhost:4000/2016/08/25/aliquam.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-08T11:58:28+13:00</updated><id>http://localhost:4000/</id><subtitle>Improving customer interfaces for government agencies</subtitle><entry><title>Form Bootcamp</title><link href="http://localhost:4000/bootcamp" rel="alternate" type="text/html" title="Form Bootcamp" /><published>2016-08-25T00:00:00+12:00</published><updated>2016-08-25T00:00:00+12:00</updated><id>http://localhost:4000/bootcamp</id><content type="html" xml:base="http://localhost:4000/bootcamp">&lt;h2&gt;How do we train your form to deliver a delightful service?&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+&lt;p&gt;We send your form(s) through a bootcamp process. We partner with you and you get to join our team while we help get you up to speed.  It’s high-paced and intense but enjoyable and you will learn a lot about a modern approach to creating intelligent &amp;amp; compassionate forms that your customers will love.&lt;/p&gt;
+&lt;div class=&quot;box alt&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;5u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/warmu_crop.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+        &lt;div class=&quot;7u$&quot;&gt;
+            &lt;blockquote&gt;
+                &lt;h2&gt;Stage 1 - Warm up&lt;/h2&gt;
+                &lt;ul class=&quot;alt&quot;&gt;
+                    &lt;li&gt;Problem Discovery&lt;/li&gt;
+                    &lt;li&gt;Training / coaching&lt;/li&gt;
+                    &lt;li&gt;Team setup&lt;/li&gt;
+                    &lt;li&gt;Environments&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/blockquote&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;6u&quot;&gt;&lt;em&gt;
+            &lt;h2&gt;Stage 2 - Sprint&lt;/h2&gt;
+            &lt;ul class=&quot;alt&quot;&gt;
+                &lt;li&gt;Build&lt;/li&gt;
+                &lt;li&gt;Support&lt;/li&gt;
+                &lt;li&gt;Iterate&lt;/li&gt;
+                &lt;li&gt;Detail&lt;/li&gt;
+            &lt;/ul&gt;&lt;/em&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;5u$&quot;&gt;
+        &lt;blockquote&gt;
+            &lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/sprint_crop.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+        &lt;/blockquote&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;5u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/graduation_crop.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/div&gt;
+        &lt;div class=&quot;7u$&quot;&gt;
+            &lt;blockquote&gt;
+                &lt;h2&gt;Stage 3 - Graduate&lt;/h2&gt;
+                &lt;ul class=&quot;alt&quot;&gt;
+                    &lt;li&gt;Go live&lt;/li&gt;
+                    &lt;li&gt;Inject Value&lt;/li&gt;
+                    &lt;li&gt;Celebrate&lt;/li&gt;
+                    &lt;li&gt;What’s next?&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/blockquote&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry><entry><title>Tempus</title><link href="http://localhost:4000/2016/08/24/tempus.html" rel="alternate" type="text/html" title="Tempus" /><published>2016-08-24T00:00:00+12:00</published><updated>2016-08-24T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/24/tempus</id><content type="html" xml:base="http://localhost:4000/2016/08/24/tempus.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+&lt;p&gt;The goal of the bootcamp is to improve the interaction between you and your customers by creating purposeful and delightful forms that they enjoy using.  We hope your form sheds a few pages and we help you learn how to use the process to improve your own forms.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+&lt;p&gt;In Traject’s eyes, happy customers are the result of a well-crafted, well-considered and respectful user experience and interface. Our co-design process and service of usability research and plain language copywriting allows us to make something that your customers like.&lt;/p&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry><entry><title>Magna</title><link href="http://localhost:4000/2016/08/23/magna.html" rel="alternate" type="text/html" title="Magna" /><published>2016-08-23T00:00:00+12:00</published><updated>2016-08-23T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/23/magna</id><content type="html" xml:base="http://localhost:4000/2016/08/23/magna.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+&lt;p&gt;At the same time, your own business needs and timeframes are equally accommodated. Using Traject’s proprietary form building tool, your forms can quickly and easily scale to any given size, saving you time and money.&lt;/p&gt;</content><summary>How do we train your form to deliver a delightful service?</summary></entry><entry><title>What personality is your form?</title><link href="http://localhost:4000/form-disorder" rel="alternate" type="text/html" title="What personality is your form?" /><published>2016-08-24T00:00:00+12:00</published><updated>2016-08-24T00:00:00+12:00</updated><id>http://localhost:4000/What-personality-is-your-form</id><content type="html" xml:base="http://localhost:4000/form-disorder">&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;&quot;&gt;
+        &lt;h2&gt;&lt;em&gt;Your form is your front of house, it's the first digital experience your public have with you.&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+        &lt;blockquote class=&quot;10u&quot;&gt;&lt;h3&gt;A well designed form is like a fantastic maître d'. It'll make you feel welcome, get to know you just enough to ensure you get exactly what you came for, and remember to return your jacket on the way out&lt;/h3&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry><entry><title>Ipsum</title><link href="http://localhost:4000/2016/08/22/ipsum.html" rel="alternate" type="text/html" title="Ipsum" /><published>2016-08-22T00:00:00+12:00</published><updated>2016-08-22T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/22/ipsum</id><content type="html" xml:base="http://localhost:4000/2016/08/22/ipsum.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+        &lt;h3&gt;&lt;em&gt;Imagine if your forms were optimised, what &lt;em&gt;efficiency&lt;/em&gt; and time gains you and your customers would all instantly acquire, not to mention how many trees would be saved, and more. High fives all round.&lt;/em&gt;&lt;/h3&gt;
+       &lt;blockquote&gt;&lt;h2&gt;Traject crafts &lt;em&gt;purposeful, delightful&lt;/em&gt; forms to build more effective government services.&lt;/h2&gt;&lt;/blockquote&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr class=&quot;major&quot; /&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry><entry><title>Consequat</title><link href="http://localhost:4000/2016/08/21/consequat.html" rel="alternate" type="text/html" title="Consequat" /><published>2016-08-21T00:00:00+12:00</published><updated>2016-08-21T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/21/consequat</id><content type="html" xml:base="http://localhost:4000/2016/08/21/consequat.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+&lt;form action=&quot;https://formspree.io/hello@traject.nz&quot; method=&quot;POST&quot;&gt;
+   &lt;h2&gt;Tell us about your form&lt;/h2&gt;
+   &lt;p class=&quot;&quot;&gt;Forms are a bit like people. They come in all shapes and sizes, have varying ages and unique histories. And like people, forms transfer information from one end to another, leaving an impression behind. This impression has the potential to be one that delights you and makes you feel good about the world. &lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+   &lt;p&gt;But all too often, our interactions with forms are unnecessarily confusing and full of frustration. We want to hear about the characteristics of forms in your agency, or forms that you have used.&lt;/p&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry><entry><title>Etiam</title><link href="http://localhost:4000/2016/08/20/etiam.html" rel="alternate" type="text/html" title="Etiam" /><published>2016-08-20T00:00:00+12:00</published><updated>2016-08-20T00:00:00+12:00</updated><id>http://localhost:4000/2016/08/20/etiam</id><content type="html" xml:base="http://localhost:4000/2016/08/20/etiam.html">&lt;p&gt;Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.&lt;/p&gt;
+   &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;4u 12u$(small)&quot;&gt;
+           &lt;h3 style=&quot;margin: 0&quot;&gt;Disorderly forms&lt;/h3&gt;
+           &lt;p&gt;&lt;sup&gt;Select all that apply.&lt;/sup&gt;&lt;/p&gt;
+           &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-costly&quot; name=&quot;check-costly&quot; /&gt;
+                &lt;label for=&quot;check-costly&quot;&gt;Costly&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-effort&quot; name=&quot;check-effort&quot; /&gt;
+                &lt;label for=&quot;check-effort&quot;&gt;High effort&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-forgetful&quot; name=&quot;check-forgetful&quot; /&gt;
+                &lt;label for=&quot;check-forgetful&quot;&gt;They forget you&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-slow&quot; name=&quot;check-slow&quot; /&gt;
+                &lt;label for=&quot;check-slow&quot;&gt;They are slow, stale and stagnant&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-closed&quot; name=&quot;check-closed&quot; /&gt;
+                &lt;label for=&quot;check-closed&quot;&gt;Closed, impersonal. May give you the cold shoulder&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-confusing&quot; name=&quot;check-confusing&quot; /&gt;
+                &lt;label for=&quot;check-confusing&quot;&gt;Confusing&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-ignorant&quot; name=&quot;check-ignorant&quot; /&gt;
+                &lt;label for=&quot;check-ignorant&quot;&gt;Ignorant and grumpy&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-inarticulate&quot; name=&quot;check-inarticulate&quot; /&gt;
+                &lt;label for=&quot;check-inarticulate&quot;&gt;Inarticulate and are poor communicators - you don’t know (and may never know) &lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-unhelpful&quot; name=&quot;check-unhelpful&quot; /&gt;
+                &lt;label for=&quot;check-unhelpful&quot;&gt;Unhelpful with directions. You my end up somewhere you did not expect to be!&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-disrespectful&quot; name=&quot;check-disrespectful&quot; /&gt;
+                &lt;label for=&quot;check-disrespectful&quot;&gt;Disrespectful. Of your time and your intelligence&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-clinical&quot; name=&quot;check-clinical&quot; /&gt;
+                &lt;label for=&quot;check-clinical&quot;&gt;Clinical and devoid of human-ness&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-needy&quot; name=&quot;check-needy&quot; /&gt;
+                &lt;label for=&quot;check-needy&quot;&gt;Needy. They expect so much of you and provide little in return&lt;/label&gt;
+            &lt;/div&gt;
+       &lt;/div&gt;
+       &lt;div class=&quot;4u 12u$(small)&quot;&gt;
+            &lt;h3 style=&quot;margin: 0&quot;&gt;Delightful forms&lt;/h3&gt;
+            &lt;p&gt;&lt;sup&gt;Select all that apply.&lt;/sup&gt;&lt;/p&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-delightful&quot; name=&quot;check-delightful&quot; /&gt;
+                &lt;label for=&quot;check-delightful&quot;&gt;Delightful!&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-respectful&quot; name=&quot;check-respectful&quot; /&gt;
+                &lt;label for=&quot;check-respectful&quot;&gt;Respectful&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-intuative&quot; name=&quot;check-intuative&quot; /&gt;
+                &lt;label for=&quot;check-intuative&quot;&gt;Intuitive and response - they remember who you are and anticipate your needs&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-polite&quot; name=&quot;check-polite&quot; /&gt;
+                &lt;label for=&quot;check-polite&quot;&gt;Polite and endearing&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-deserving&quot; name=&quot;check-deserving&quot; /&gt;
+                &lt;label for=&quot;check-deserving&quot;&gt;Deserving of your time&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-trustworth&quot; name=&quot;check-trustworth&quot; /&gt;
+                &lt;label for=&quot;check-trustworth&quot;&gt;Trustworthy. You just know they’ll get you through&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-welcome&quot; name=&quot;check-welcome&quot; /&gt;
+                &lt;label for=&quot;check-welcome&quot;&gt;Welcoming and friendly&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-warm&quot; name=&quot;check-warm&quot; /&gt;
+                &lt;label for=&quot;check-warm&quot;&gt;Warm and personable&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-helpful&quot; name=&quot;check-helpful&quot; /&gt;
+                &lt;label for=&quot;check-helpful&quot;&gt;Helpful and considerate. They care about you and keep you moving along the ‘right’ path&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-can&quot; name=&quot;check-can&quot; /&gt;
+                &lt;label for=&quot;check-can&quot;&gt;Have a ‘can-do’ attitude&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-satisfy&quot; name=&quot;check-satisfy&quot; /&gt;
+                &lt;label for=&quot;check-satisfy&quot;&gt;Satisfying to complete and you feel like it was worth your time&lt;/label&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;12u$(small)&quot;&gt;
+                &lt;input type=&quot;checkbox&quot; id=&quot;check-purposeful&quot; name=&quot;check-purposeful&quot; /&gt;
+                &lt;label for=&quot;check-purposeful&quot;&gt;Purposeful&lt;/label&gt;
+            &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;4u$ 12u$(small)&quot;&gt;
+        &lt;h3&gt;Let us know!&lt;/h3&gt;
+        &lt;div class=&quot;field&quot;&gt;
+            &lt;label for=&quot;name&quot;&gt;Your Name&lt;/label&gt;
+            &lt;input type=&quot;text&quot; name=&quot;name&quot; id=&quot;name&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;field&quot;&gt;
+            &lt;label for=&quot;email&quot;&gt;Your Email&lt;/label&gt;
+            &lt;input type=&quot;text&quot; name=&quot;_replyto&quot; id=&quot;email&quot; /&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;field&quot;&gt;
+            &lt;label for=&quot;message&quot;&gt;Form Details&lt;/label&gt;
+            &lt;textarea name=&quot;message&quot; id=&quot;message&quot; rows=&quot;6&quot;&gt;&lt;/textarea&gt;
+        &lt;/div&gt;
+        &lt;ul class=&quot;actions&quot;&gt;
+            &lt;li&gt;&lt;input type=&quot;submit&quot; value=&quot;Submit&quot; class=&quot;special&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+&lt;hr class=&quot;major&quot; /&gt;</content><summary>Your form is your front of house, it's the first digital experience your public have with you.</summary></entry><entry><title>About Traject</title><link href="http://localhost:4000/about-us" rel="alternate" type="text/html" title="About Traject" /><published>2016-08-22T00:00:00+12:00</published><updated>2016-08-22T00:00:00+12:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about-us">&lt;p&gt;Traject was born out of the Government’s R9Accelerator program, which is all about making it easier for people to interact with New Zealand Government.
+We’re a group of people who are passionate about helping Government do this and we chose the simple form to demonstrate how thinking like a customer can guide the form design process to develop experiences that delight.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.&lt;/p&gt;
+&lt;p&gt;Working with Immigration New Zealand as our sponsor, Traject, a team of two, explored the opportunities of solving the tech sector skill shortage and making it easier for business to hire the talent they need. After a few pivots and diving into problem discovery, our team and company grew and we found our true calling: crafting purposeful and delightful forms to build more effective government services.&lt;/p&gt;
 
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.&lt;/p&gt;</content><summary>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</summary></entry></feed>
+&lt;h3&gt;
+A few of our dedicated form-fixers...
+&lt;/h3&gt;
+&lt;div class=&quot;box team-names&quot;&gt;
+    &lt;div class=&quot;row 50% uniform&quot;&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/jaz.png&quot; alt=&quot;jasmine&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Jasmin&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/eugene.png&quot; alt=&quot;eugene&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Eugene&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/mikey.jpg&quot; alt=&quot;mikey&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Mikey&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u$&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/sam.png&quot; alt=&quot;sam&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Sam&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row 50% uniform&quot;&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/ashlyn.png&quot; alt=&quot;ashlyn&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Ashlyn&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/julien.png&quot; alt=&quot;julien&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Julien&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/yasmine.png&quot; alt=&quot;yasmine&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Yasmine&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;3u$&quot;&gt;&lt;span class=&quot;image fit&quot;&gt;&lt;img src=&quot;../../../assets/images/mix.png&quot; alt=&quot;mix&quot; /&gt;&lt;/span&gt;
+        &lt;div class=&quot;button fit small&quot;&gt;Mix&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><summary>Traject was born out of the Government’s R9Accelerator program, which is all about making it easier for people to interact with New Zealand Government.
+We’re a group of people who are passionate about helping Government do this and we chose the simple form to demonstrate how thinking like a customer can guide the form design process to develop experiences that delight.</summary></entry></feed>

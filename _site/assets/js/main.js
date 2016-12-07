@@ -355,9 +355,16 @@ var delightfulWords = [
 
 "intuitive",
 "rare",
+"fun",
 "purposeful",
+"a craft",
+"effortless",
+"good communicators",
 "respectful",
 "responsive",
+"like a ray of sunshine",
+"time saving",
+"caring",
 "polite",
 "trustworthy",
 "helpful",
@@ -370,6 +377,7 @@ var delightfulWords = [
 "welcoming",
 "considerate",
 "delightful!"
+
 ]
 
 $.each(delightfulWords, function(i, val) {
