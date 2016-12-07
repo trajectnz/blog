@@ -12,7 +12,6 @@ permalink: form-disorder
         <blockquote class="10u"><h3>A well designed form is like a fantastic maître d'. It'll make you feel welcome, get to know you just enough to ensure you get exactly what you came for, and remember to return your jacket on the way out</h3></blockquote>
 
         <h3><em>Imagine if your forms were optimised, what <em>efficiency</em> and time gains you and your customers would all instantly acquire, not to mention how many trees would be saved, and more. High fives all round.</em></h3>
-       <blockquote><h2>Traject crafts <em>purposeful, delightful</em> forms to build more effective government services.</h2></blockquote>
 
     </div>
 </div>
