@@ -63,5 +63,5 @@ The goal of the bootcamp is to improve the interaction between you and your cust
 
 In Traject’s eyes, happy customers are the result of a well-crafted, well-considered and respectful user experience and interface. Our co-design process and service of usability research and plain language copywriting allows us to make something that your customers like. 
 
-At the same time, your own business needs and timeframes are equally accommodated. Using Traject’s proprietary form building tool, your forms can quickly and easily scale to any given size, saving you time and money.
+At the same time, your own business needs and time-frames are equally accommodated. Using Traject’s proprietary form building tool, your forms can quickly and easily scale to any given size, saving you time and money.
 
