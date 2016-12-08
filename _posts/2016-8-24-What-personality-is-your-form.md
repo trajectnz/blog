@@ -89,7 +89,7 @@ permalink: form-disorder
             </div>
             <div class="12u$(small)">
                 <input type="checkbox" id="check-intuative" name="check-intuative">
-                <label for="check-intuative">Intuitive and response - they remember who you are and anticipate your needs</label>
+                <label for="check-intuative">Intuitive and responsive - they remember who you are and anticipate your needs</label>
             </div>
             <div class="12u$(small)">
                 <input type="checkbox" id="check-polite" name="check-polite">
