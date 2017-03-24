@@ -1962,7 +1962,7 @@
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f5f5f5;
+		background: #f7f7f7;
 		border: none;
 		border-radius: 0;
 		color: inherit;
@@ -1989,7 +1989,7 @@
 		select:focus,
 		textarea:focus {
 			border-color: #9bf1ff;
-			box-shadow: 0 0 0 2px #f5f5f5;
+			box-shadow: 0 0 0 2px #f7f7f7;
 		}
 
 	.select-wrapper {
