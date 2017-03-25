@@ -3112,9 +3112,9 @@
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				background-color: #ffffff;
 				color: #242943;
 				display: inline-block;
+				width: 5.75em;
 				line-height: 1.4em;
 				margin-right: 0.325em;
 				padding: 0 0.4em 0 0.35em;
@@ -3124,14 +3124,14 @@
 		    -webkit-font-smoothing: antialiased;
 			}
 
-/*			#header .logo img {
+			#header .logo img {
 				width: 100%;
 				height: auto;
-			}*/
-
-			#header .logo:hover strong {
-				background-color: #9bf1ff;
 			}
+
+/*			#header .logo:hover strong {
+				background-color: #9bf1ff;
+			}*/
 
 			#header .logo:active strong {
 				background-color: #53e3fb;
