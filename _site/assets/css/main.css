@@ -3118,17 +3118,16 @@
 				line-height: 1.4em;
 				margin-right: 0.325em;
 				padding: 0 0.4em 0 0.35em;
-				width: 5.5em;
 				font-family: earthorbitertitle;
 				letter-spacing: -0.1em;
 		    font-size: 19px;
 		    -webkit-font-smoothing: antialiased;
 			}
 
-			#header .logo img {
+/*			#header .logo img {
 				width: 100%;
 				height: auto;
-			}
+			}*/
 
 			#header .logo:hover strong {
 				background-color: #9bf1ff;
